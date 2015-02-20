@@ -12,7 +12,7 @@ cx_Oracle
 ```
 
 Note that finding the right
-[cx_Oracle|http://cx-oracle.sourceforge.net/] package to use with your
+[cx_Oracle](http://cx-oracle.sourceforge.net) package to use with your
 Oracle installation can be tricky. The SDBM dev environment, running
 on CentOS 5 and Python 2.6, uses cx_Oracle-5.1.2-10g-py26-1.x86_64.rpm.
 
